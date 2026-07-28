@@ -56,6 +56,7 @@ che ti sta sentendo. Al rilascio il testo entra nel campo attivo.
 <table>
 <tr><td width="56" align="center">📖</td><td><b>Dizionario personale.</b> Nomi propri, sigle aziendali e termini tecnici che il riconoscimento sbaglia sempre allo stesso modo. Aggiungi la parola giusta e la ritrova anche quando la sente storta.</td></tr>
 <tr><td width="56" align="center">🧠</td><td><b>Punteggiatura e refusi</b> sistemati dal modello di linguaggio integrato in macOS, senza mandare niente in rete. Richiede Apple Intelligence attiva.</td></tr>
+<tr><td width="56" align="center">🌍</td><td><b>Traduzione al volo.</b> Detta in italiano e fai uscire il testo in un'altra lingua, con una scorciatoia per lingua. La traduzione avviene sul Mac.</td></tr>
 <tr><td width="56" align="center">🔇</td><td><b>Microfono prioritario.</b> Durante la dettatura prende l'esclusiva sul microfono, così chi è in chiamata con te non ti sente. Le app che tengono lo stream sempre aperto, i browser in particolare, restano in ascolto.</td></tr>
 <tr><td width="56" align="center">🔉</td><td><b>Audio abbassato</b> mentre detti e riportato al volume di prima quando hai finito.</td></tr>
 <tr><td width="56" align="center">📊</td><td><b>Statistiche</b> di parole dettate e tempo risparmiato rispetto alla digitazione.</td></tr>
