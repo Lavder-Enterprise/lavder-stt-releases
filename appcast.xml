@@ -6,6 +6,15 @@
         <description>Aggiornamenti di Lavder STT.</description>
         <language>it</language>
         <item>
+            <title>Versione 2.5.4</title>
+            <pubDate>Tue, 28 Jul 2026 16:44:02 +0300</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>2.5.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[La guida introduttiva non si riapre piu' a ogni aggiornamento: macOS la ripristinava da solo scavalcando l'impostazione dell'app.]]></description>
+            <enclosure url="https://github.com/Lavder-Enterprise/lavder-stt-releases/releases/download/v2.5.4/LavderSTT-2.5.4.dmg" type="application/octet-stream" sparkle:edSignature="hghrDEN3rKGEMqyAwxlJg70E8t9TLZ3ZQG5/RWnj4Gts2A/CH7jklav2JgkL5/7Nf8XnWuKshLnkR0TxAj4ACA==" length="6122480" />
+        </item>
+        <item>
             <title>Versione 2.5.3</title>
             <pubDate>Tue, 28 Jul 2026 16:34:19 +0300</pubDate>
             <sparkle:version>13</sparkle:version>
