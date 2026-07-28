@@ -144,6 +144,6 @@ pacchetto.
     Qui trovi solo il canale di distribuzione: il feed degli aggiornamenti e le disk image
     firmate. Il codice sorgente è privato.
     <br><br>
-    Un progetto <a href="https://github.com/lavderenterprise"><b>Lavder Enterprise</b></a>
+    Un progetto <a href="https://github.com/Lavder-Enterprise"><b>Lavder Enterprise</b></a>
   </sub>
 </p>
