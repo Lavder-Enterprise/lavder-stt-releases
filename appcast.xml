@@ -6,6 +6,15 @@
         <description>Aggiornamenti di Lavder STT.</description>
         <language>it</language>
         <item>
+            <title>Versione 2.5.0</title>
+            <pubDate>Tue, 28 Jul 2026 12:28:00 +0300</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>2.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Molto piu' leggera: le onde della dettatura costano 7 volte meno CPU, il microfono e il volume tornano liberi appena il testo e' inserito, e la memoria del modello Whisper viene restituita quando non serve. Corretti diversi problemi: volume che restava basso uscendo dall'app, microfono di sistema che restava dirottato, dettature lunghe che al timeout perdevano quasi tutto il testo, e la doppia pressione necessaria dopo un errore.]]></description>
+            <enclosure url="https://github.com/Lavder-Enterprise/lavder-stt-releases/releases/download/v2.5.0/LavderSTT-2.5.0.dmg" type="application/octet-stream" sparkle:edSignature="u/h5tFInfyJWcCVWBlO2NmrRJ4trmxQaW/TtbbF9DXVS442Zm5z7Ic8ot943gTcyQ7RlKIFA7OnQMamQqP2mCw==" length="6090239" />
+        </item>
+        <item>
             <title>Versione 2.4.0</title>
             <pubDate>Tue, 21 Jul 2026 12:02:22 +0300</pubDate>
             <sparkle:version>9</sparkle:version>
