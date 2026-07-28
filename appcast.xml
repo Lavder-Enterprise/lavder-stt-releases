@@ -6,6 +6,15 @@
         <description>Aggiornamenti di Lavder STT.</description>
         <language>it</language>
         <item>
+            <title>Versione 2.5.3</title>
+            <pubDate>Tue, 28 Jul 2026 16:34:19 +0300</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>2.5.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Dettatura molto piu' reattiva: il controllo del campo di testo parte alla pressione invece che dopo l'attesa e non blocca piu' l'interfaccia, e i controlli del motore vocale non vengono piu' ripetuti a ogni dettatura. Le prime parole non si perdono piu'.]]></description>
+            <enclosure url="https://github.com/Lavder-Enterprise/lavder-stt-releases/releases/download/v2.5.3/LavderSTT-2.5.3.dmg" type="application/octet-stream" sparkle:edSignature="gAFMshjDCNL067lQ39GXHll49gbLRqKaezuXwH6EJDJdi9HemmUm2Z4xYongkbaY+D9B5lphVaeXYn2b53DMAg==" length="6121060" />
+        </item>
+        <item>
             <title>Versione 2.5.2</title>
             <pubDate>Tue, 28 Jul 2026 15:59:15 +0300</pubDate>
             <sparkle:version>12</sparkle:version>
