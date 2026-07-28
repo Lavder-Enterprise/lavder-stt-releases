@@ -6,6 +6,15 @@
         <description>Aggiornamenti di Lavder STT.</description>
         <language>it</language>
         <item>
+            <title>Versione 2.5.2</title>
+            <pubDate>Tue, 28 Jul 2026 15:59:15 +0300</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>2.5.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[La guida introduttiva non ricompare piu' a ogni avvio se la chiudi con la crocetta, e non diventa piu' irraggiungibile quando apri Impostazioni di Sistema per concedere i permessi. Corretta la dettatura tenendo premuto il mouse, che in certe condizioni non si armava mai. L'app non lascia piu' acceso il rilevamento di accessibilita' sulle altre applicazioni.]]></description>
+            <enclosure url="https://github.com/Lavder-Enterprise/lavder-stt-releases/releases/download/v2.5.2/LavderSTT-2.5.2.dmg" type="application/octet-stream" sparkle:edSignature="0zLeXazA1/0luuizDDkaYBUI0ES+BldkdeYTwvv3JQeB95gdCOylr7L0hhSBgnUSsh6i1QQaZOmCzgVLiyatDA==" length="6107175" />
+        </item>
+        <item>
             <title>Versione 2.5.1</title>
             <pubDate>Tue, 28 Jul 2026 14:20:42 +0300</pubDate>
             <sparkle:version>11</sparkle:version>
