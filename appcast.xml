@@ -6,6 +6,15 @@
         <description>Aggiornamenti di Lavder STT.</description>
         <language>it</language>
         <item>
+            <title>Versione 2.5.6</title>
+            <pubDate>Wed, 29 Jul 2026 09:51:41 +0300</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>2.5.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[La dettatura tenendo premuto il mouse continua a funzionare anche quando il sistema e' sotto carico pesante: prima, se le app non rispondevano entro un limite molto stretto, non si armava affatto.]]></description>
+            <enclosure url="https://github.com/Lavder-Enterprise/lavder-stt-releases/releases/download/v2.5.6/LavderSTT-2.5.6.dmg" type="application/octet-stream" sparkle:edSignature="ShoCSPvs+C95VX//54OOE9IjvozSvriJZ20QN3T99KbNTZ9ldUobqJejJ2a6T3e+n70lr2dEmxFVwMCgGK0NBw==" length="6122408" />
+        </item>
+        <item>
             <title>Versione 2.5.5</title>
             <pubDate>Tue, 28 Jul 2026 17:17:25 +0300</pubDate>
             <sparkle:version>15</sparkle:version>
