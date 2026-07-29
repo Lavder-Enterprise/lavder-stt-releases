@@ -6,6 +6,19 @@
         <description>Aggiornamenti di Lavder STT.</description>
         <language>it</language>
         <item>
+            <title>Versione 2.5.8</title>
+            <pubDate>Wed, 29 Jul 2026 20:00:19 +0300</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>2.5.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Microfono prioritario: non rinuncia piu' al primo intoppo. Subito dopo aver preso l'esclusiva il device puo' rifiutare l'audio per una frazione di secondo, perche' l'app che lo teneva aperto (tipicamente una chiamata) sta ancora rilasciandolo. Prima bastava quello per degradare al microfono condiviso, con l'avviso di errore su una dettatura che poi funzionava benissimo. Ora ritenta, e l'avviso compare solo quando il ripiego e' reale.
+
+Silenziamento vero mentre detti. Prima abbassava al 20%, che in una chiamata si sente ancora e, ad altoparlanti accesi, fa rientrare la voce dell'altro nel microfono e nella trascrizione. Ora azzera, e l'attesa per il suono di avvio scende da 350 a 200 millisecondi (a zero se i suoni sono spenti).
+
+Partenza piu' rapida e piu' costante. L'esclusione degli altri microfoni non viene piu' pagata prima di aprire il tuo, e la cache di prontezza del modello non scade piu' tra un rinfresco e l'altro: erano le due ragioni per cui ogni tanto la dettatura partiva piu' lenta.]]></description>
+            <enclosure url="https://github.com/Lavder-Enterprise/lavder-stt-releases/releases/download/v2.5.8/LavderSTT-2.5.8.dmg" type="application/octet-stream" sparkle:edSignature="zt/4CoIW11N2oXwLw0AEXj1epfsziZJXVYXLnHfowq5HlLLdk7PQqleKW8j+s0FdN6E7HInlbifJ+dP2eOR3AA==" length="6125330" />
+        </item>
+        <item>
             <title>Versione 2.5.7</title>
             <pubDate>Wed, 29 Jul 2026 09:57:39 +0300</pubDate>
             <sparkle:version>17</sparkle:version>
