@@ -6,6 +6,15 @@
         <description>Aggiornamenti di Lavder STT.</description>
         <language>it</language>
         <item>
+            <title>Versione 2.5.7</title>
+            <pubDate>Wed, 29 Jul 2026 09:57:39 +0300</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>2.5.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Corretta alla radice la causa per cui la guida introduttiva si riapriva e i permessi risultavano da riconcedere: build diverse della stessa app condividevano l'identita' di firma memorizzata e si sovrascrivevano a vicenda.]]></description>
+            <enclosure url="https://github.com/Lavder-Enterprise/lavder-stt-releases/releases/download/v2.5.7/LavderSTT-2.5.7.dmg" type="application/octet-stream" sparkle:edSignature="3Xyp/Ad9n4Bf9px2B7RY3IVeE4HhBBQRZ58g+UJuMbi1FFioOD+/anOqtL8RefSUU/Q6BM7ijH8Fy/qA0lUWCw==" length="6122986" />
+        </item>
+        <item>
             <title>Versione 2.5.6</title>
             <pubDate>Wed, 29 Jul 2026 09:51:41 +0300</pubDate>
             <sparkle:version>16</sparkle:version>
