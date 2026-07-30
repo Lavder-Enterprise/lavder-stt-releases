@@ -6,6 +6,21 @@
         <description>Aggiornamenti di Lavder STT.</description>
         <language>it</language>
         <item>
+            <title>Versione 2.5.13</title>
+            <pubDate>Thu, 30 Jul 2026 19:03:44 +0300</pubDate>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>2.5.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Correzione del microfono che restava disattivato nelle app configurate sul microfono predefinito.
+
+Con TeamSpeak impostato su 'predefinito' invece che su un microfono specifico, dopo una dettatura il microfono restava inutilizzabile finche' non si forzava manualmente il device nelle impostazioni.
+
+L'app ripristinava il microfono predefinito di sistema a ogni suo cambiamento durante la dettatura. Ogni ripristino e' una notifica a tutto il sistema, e le app che seguono il predefinito reagiscono riaprendo il loro stream audio: se lo riaprono mentre la dettatura e' in corso, l'apertura fallisce e restano senza microfono.
+
+Quel ripristino serve a impedire che macOS dirotti il microfono sull'iPhone vicino. Ora agisce solo in quel caso: se il predefinito passa a un altro microfono locale, viene lasciato dov'e'.]]></description>
+            <enclosure url="https://github.com/Lavder-Enterprise/lavder-stt-releases/releases/download/v2.5.13/LavderSTT-2.5.13.dmg" type="application/octet-stream" sparkle:edSignature="Nn0wtTa+vaByZpibd4KoQeKjy3/VRE3uUk5A00ZqCkOTwtk1nFgvqT15YiDoIZBFYAOaVnamFjWDAMGA4Bm8DQ==" length="6131364" />
+        </item>
+        <item>
             <title>Versione 2.5.12</title>
             <pubDate>Thu, 30 Jul 2026 18:52:54 +0300</pubDate>
             <sparkle:version>22</sparkle:version>
