@@ -6,6 +6,19 @@
         <description>Aggiornamenti di Lavder STT.</description>
         <language>it</language>
         <item>
+            <title>Versione 2.5.12</title>
+            <pubDate>Thu, 30 Jul 2026 18:52:54 +0300</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>2.5.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Correzione di un guasto che lasciava le altre app senza microfono.
+
+Su TeamSpeak il microfono risultava disattivato e non piu' riattivabile finche' Lavder STT non veniva chiusa. L'esclusiva presa durante la dettatura non veniva rilasciata a fine sessione, per una condizione di corsa introdotta nella 2.5.9.
+
+Oltre alla correzione del punto preciso, ora c'e' una rete di sicurezza indipendente: due secondi dopo la fine di una dettatura, se l'esclusiva risulta ancora presa e non e' ripartita una nuova sessione, viene rilasciata comunque.]]></description>
+            <enclosure url="https://github.com/Lavder-Enterprise/lavder-stt-releases/releases/download/v2.5.12/LavderSTT-2.5.12.dmg" type="application/octet-stream" sparkle:edSignature="N/6BcrUQLg6kzkQoZG+szbwm4I9QtpqMcp2Dnz+HESO7cBXvoC0Bdp8gRz4V2meyhToSM0cicpNqetJ2WjVVDg==" length="6131034" />
+        </item>
+        <item>
             <title>Versione 2.5.11</title>
             <pubDate>Thu, 30 Jul 2026 18:40:00 +0300</pubDate>
             <sparkle:version>21</sparkle:version>
