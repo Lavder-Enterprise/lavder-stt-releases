@@ -6,6 +6,19 @@
         <description>Aggiornamenti di Lavder STT.</description>
         <language>it</language>
         <item>
+            <title>Versione 2.5.9</title>
+            <pubDate>Thu, 30 Jul 2026 13:37:25 +0300</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>2.5.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Correzione del volume che non tornava al valore originale dopo la dettatura.
+
+Il ripristino dipendeva da un interruttore che serve a proteggere l'esclusiva del microfono durante l'armamento: se restava alzato a fine sessione, il volume non veniva riportato su. Fino alla 2.5.7 il silenziamento si fermava al 20% e il difetto passava per fastidio; da quando azzera del tutto diventava silenzio pieno. Ora il ripristino non ha piu' condizioni.
+
+Secondo difetto della stessa famiglia: se la funzione leggeva il volume mentre era gia' a zero, salvava quello zero come volume originale e lo scriveva su disco. Da quel momento ogni ripristino riportava a zero, riavvio dell'app compreso. Adesso uno zero non viene mai salvato.]]></description>
+            <enclosure url="https://github.com/Lavder-Enterprise/lavder-stt-releases/releases/download/v2.5.9/LavderSTT-2.5.9.dmg" type="application/octet-stream" sparkle:edSignature="pRkTUxXx1HytsWTpR81CaaujHuPh4nHPkSR8YJzA1sbDVHQF0809zxYBz+Jx3KhgglW8OAkh4UiqAgCfXknADw==" length="6125708" />
+        </item>
+        <item>
             <title>Versione 2.5.8</title>
             <pubDate>Wed, 29 Jul 2026 20:00:19 +0300</pubDate>
             <sparkle:version>18</sparkle:version>
