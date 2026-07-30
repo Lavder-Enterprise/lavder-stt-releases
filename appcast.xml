@@ -6,6 +6,19 @@
         <description>Aggiornamenti di Lavder STT.</description>
         <language>it</language>
         <item>
+            <title>Versione 2.5.11</title>
+            <pubDate>Thu, 30 Jul 2026 18:40:00 +0300</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>2.5.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Il microfono dell'iPhone non viene piu' richiamato a ogni dettatura.
+
+Quando l'app prende l'esclusiva sui microfoni locali, macOS puo' spostare il microfono predefinito su quello dell'iPhone. Fin qui e' normale. Il problema era cosa faceva l'app dopo: se la dettatura successiva partiva con il predefinito gia' spostato, l'app lo fissava li' e si metteva a difenderlo, annullando ogni tentativo del sistema di tornare a un microfono locale. Lo stesso valore finiva anche nella memoria usata per correggere la situazione alla dettatura dopo, quindi bastava un dirottamento e l'app restava incastrata.
+
+Ora un microfono Continuity non viene mai fissato come predefinito valido, e il predefinito viene riportato sul microfono integrato del Mac prima di iniziare.]]></description>
+            <enclosure url="https://github.com/Lavder-Enterprise/lavder-stt-releases/releases/download/v2.5.11/LavderSTT-2.5.11.dmg" type="application/octet-stream" sparkle:edSignature="bMEKd48+SFt3zekQUtW+1FxgnA6AbXZcf1xbqakgSBP9M+2Dhu3MlA9gv6csKvf7SXPa6h8qhSwcx35VWGlMCw==" length="6129707" />
+        </item>
+        <item>
             <title>Versione 2.5.10</title>
             <pubDate>Thu, 30 Jul 2026 15:55:40 +0300</pubDate>
             <sparkle:version>20</sparkle:version>
