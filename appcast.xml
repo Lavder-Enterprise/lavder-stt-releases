@@ -6,6 +6,21 @@
         <description>Aggiornamenti di Lavder STT.</description>
         <language>it</language>
         <item>
+            <title>Versione 2.5.10</title>
+            <pubDate>Thu, 30 Jul 2026 15:51:00 +0300</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>2.5.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Il silenziamento durante la dettatura ora usa il mute del dispositivo invece di azzerare il volume.
+
+Le due versioni precedenti curavano i sintomi. La radice era il modello: "silenzia" significava "porta il volume a zero e ricordati quant'era", e quel ricordare era il difetto. Il volume originale viveva in una variabile, e qualunque cosa la corrompesse lasciava l'audio a zero senza piu' il valore da cui risalire. Con il mute, che e' un interruttore separato dal volume, non c'e' nulla da ricordare e quindi nulla che si possa perdere.
+
+Due comportamenti che prima non erano esprimibili: se avevi silenziato l'audio da te, a fine dettatura non viene riacceso; e se l'app viene chiusa mentre tiene il silenzio attivo, lo rimuove da se' al riavvio successivo, sul dispositivo giusto.
+
+Per gli output che non espongono il mute (certi DAC e uscite HDMI) resta la strada precedente col volume.]]></description>
+            <enclosure url="https://github.com/Lavder-Enterprise/lavder-stt-releases/releases/download/v2.5.10/LavderSTT-2.5.10.dmg" type="application/octet-stream" sparkle:edSignature="WekzBHcOtTCHGoH03OWTqJp5CqTL/oWnFY1Fq+nTJkN17fncO8M+bXDR4x77Zmu+17Dh9YQJXQs7WJda2yZzCA==" length="6127170" />
+        </item>
+        <item>
             <title>Versione 2.5.9</title>
             <pubDate>Thu, 30 Jul 2026 13:37:25 +0300</pubDate>
             <sparkle:version>19</sparkle:version>
