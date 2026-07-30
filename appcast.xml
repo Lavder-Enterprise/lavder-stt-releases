@@ -7,7 +7,7 @@
         <language>it</language>
         <item>
             <title>Versione 2.5.10</title>
-            <pubDate>Thu, 30 Jul 2026 15:51:00 +0300</pubDate>
+            <pubDate>Thu, 30 Jul 2026 15:55:40 +0300</pubDate>
             <sparkle:version>20</sparkle:version>
             <sparkle:shortVersionString>2.5.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
@@ -18,7 +18,7 @@ Le due versioni precedenti curavano i sintomi. La radice era il modello: "silenz
 Due comportamenti che prima non erano esprimibili: se avevi silenziato l'audio da te, a fine dettatura non viene riacceso; e se l'app viene chiusa mentre tiene il silenzio attivo, lo rimuove da se' al riavvio successivo, sul dispositivo giusto.
 
 Per gli output che non espongono il mute (certi DAC e uscite HDMI) resta la strada precedente col volume.]]></description>
-            <enclosure url="https://github.com/Lavder-Enterprise/lavder-stt-releases/releases/download/v2.5.10/LavderSTT-2.5.10.dmg" type="application/octet-stream" sparkle:edSignature="WekzBHcOtTCHGoH03OWTqJp5CqTL/oWnFY1Fq+nTJkN17fncO8M+bXDR4x77Zmu+17Dh9YQJXQs7WJda2yZzCA==" length="6127170" />
+            <enclosure url="https://github.com/Lavder-Enterprise/lavder-stt-releases/releases/download/v2.5.10/LavderSTT-2.5.10.dmg" type="application/octet-stream" sparkle:edSignature="Qjvzkkes1uS736xZ0/bl5VxfgGLK3+p3+r3JRxZVMUdG/tB89cIgKLLV296S/jl7OvjXzUw9xt333FEXYaX7DA==" length="6129152" />
         </item>
         <item>
             <title>Versione 2.5.9</title>
