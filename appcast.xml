@@ -6,6 +6,15 @@
         <description>Aggiornamenti di Lavder STT.</description>
         <language>it</language>
         <item>
+            <title>Versione 2.6.0</title>
+            <pubDate>Sun, 02 Aug 2026 16:14:38 +0300</pubDate>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>2.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Con "Automatico" la lingua viene ora riconosciuta davvero anche col motore Apple. Si parte dalla lingua del Mac e, solo se il riconoscimento non convince, si riprovano le altre lingue gia' scaricate tenendo il risultato migliore. Se la prima lingua e' quella giusta non cambia nulla: nessun costo aggiuntivo e testo che compare mentre parli come sempre.]]></description>
+            <enclosure url="https://github.com/Lavder-Enterprise/lavder-stt-releases/releases/download/v2.6.0/LavderSTT-2.6.0.dmg" type="application/octet-stream" sparkle:edSignature="QX/UYF6WuT8i9o3jRZsG/WJ3yPAtO5T4Dd0GZrfmI62TBVv/sPsZtH9ZwuOFhxrn+cmc8tpb0HayCY4lPORFAQ==" length="6201153" />
+        </item>
+        <item>
             <title>Versione 2.5.16</title>
             <pubDate>Sun, 02 Aug 2026 15:27:08 +0300</pubDate>
             <sparkle:version>26</sparkle:version>
