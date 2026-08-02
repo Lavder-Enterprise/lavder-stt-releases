@@ -6,6 +6,15 @@
         <description>Aggiornamenti di Lavder STT.</description>
         <language>it</language>
         <item>
+            <title>Versione 2.5.16</title>
+            <pubDate>Sun, 02 Aug 2026 15:27:08 +0300</pubDate>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>2.5.16</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Il riconoscimento automatico della lingua ora segue davvero la lingua del tuo Mac. Prima, con "Automatico" e il motore Apple, la dettatura partiva sempre in inglese qualunque fosse la lingua di sistema. Nota: il motore Apple non riconosce la lingua parlata, usa quella di sistema; per il riconoscimento vero servono i motori Whisper o OpenAI.]]></description>
+            <enclosure url="https://github.com/Lavder-Enterprise/lavder-stt-releases/releases/download/v2.5.16/LavderSTT-2.5.16.dmg" type="application/octet-stream" sparkle:edSignature="YzfOdvbisTGRFjHDTI65d3NqY3G5eoA7lf6zCtTlH7bD7i369vxUcFw1ICRf/FMyy2u4Udn4IaavZjSyr58/BQ==" length="6135850" />
+        </item>
+        <item>
             <title>Versione 2.5.15</title>
             <pubDate>Sun, 02 Aug 2026 15:17:54 +0300</pubDate>
             <sparkle:version>25</sparkle:version>
