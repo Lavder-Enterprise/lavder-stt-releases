@@ -6,6 +6,15 @@
         <description>Aggiornamenti di Lavder STT.</description>
         <language>it</language>
         <item>
+            <title>Versione 2.5.15</title>
+            <pubDate>Sun, 02 Aug 2026 15:17:54 +0300</pubDate>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>2.5.15</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[La dettatura col mouse ora parte anche su ChatGPT e sulle altre app basate su Chromium: prima tenere premuto sul campo di testo non faceva partire nulla, perche' quelle app espongono il campo all'accessibilita' solo dopo la prima richiesta.]]></description>
+            <enclosure url="https://github.com/Lavder-Enterprise/lavder-stt-releases/releases/download/v2.5.15/LavderSTT-2.5.15.dmg" type="application/octet-stream" sparkle:edSignature="u1jfd1gjGjS7HmNLJXZrswq615r6Crd5gaoCgUijGCQBUj2Nc9L0Y6qBgq9LHNLRXROMKA89iHDf5KTh9uyWAA==" length="6135832" />
+        </item>
+        <item>
             <title>Versione 2.5.14</title>
             <pubDate>Sun, 02 Aug 2026 11:22:43 +0300</pubDate>
             <sparkle:version>24</sparkle:version>
