@@ -6,6 +6,15 @@
         <description>Aggiornamenti di Lavder STT.</description>
         <language>it</language>
         <item>
+            <title>Versione 2.5.14</title>
+            <pubDate>Sun, 02 Aug 2026 11:22:43 +0300</pubDate>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>2.5.14</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Corretto il blocco della capsula su una dettatura avviata e interrotta subito, senza parlare: restava aperta per una ventina di secondi, impediva di ridettare e finiva con "Tempo scaduto, riprova". Sotto i 100 ms il microfono non consegna nemmeno un buffer e il motore di trascrizione non chiudeva piu' la sessione.]]></description>
+            <enclosure url="https://github.com/Lavder-Enterprise/lavder-stt-releases/releases/download/v2.5.14/LavderSTT-2.5.14.dmg" type="application/octet-stream" sparkle:edSignature="slkUlBxw4l4cKsSH4+5uzGxg1PLBliiisnE/HOnseyuCMhLnOZGE6HnmoZEwUI+uwUrNfSfgX5Ayg6B+4l1PBw==" length="6133203" />
+        </item>
+        <item>
             <title>Versione 2.5.13</title>
             <pubDate>Thu, 30 Jul 2026 19:03:44 +0300</pubDate>
             <sparkle:version>23</sparkle:version>
