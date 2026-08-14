@@ -7,12 +7,14 @@
         <language>it</language>
         <item>
             <title>Versione 2.6.0</title>
-            <pubDate>Sun, 02 Aug 2026 16:14:38 +0300</pubDate>
+            <pubDate>Fri, 14 Aug 2026 15:55:55 +0300</pubDate>
             <sparkle:version>27</sparkle:version>
             <sparkle:shortVersionString>2.6.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[Con "Automatico" la lingua viene ora riconosciuta davvero anche col motore Apple. Si parte dalla lingua del Mac e, solo se il riconoscimento non convince, si riprovano le altre lingue gia' scaricate tenendo il risultato migliore. Se la prima lingua e' quella giusta non cambia nulla: nessun costo aggiuntivo e testo che compare mentre parli come sempre.]]></description>
-            <enclosure url="https://github.com/Lavder-Enterprise/lavder-stt-releases/releases/download/v2.6.0/LavderSTT-2.6.0.dmg" type="application/octet-stream" sparkle:edSignature="QX/UYF6WuT8i9o3jRZsG/WJ3yPAtO5T4Dd0GZrfmI62TBVv/sPsZtH9ZwuOFhxrn+cmc8tpb0HayCY4lPORFAQ==" length="6201153" />
+            <description><![CDATA[La dettatura col mouse non parte piu' sulle manopole e sugli slider.
+
+Tenere premuto su una manopola per trascinarla faceva partire la dettatura: quel controllo espone un valore scrivibile — e' cosi' che l'accessibilita' lo muove — e il rilevatore lo scambiava per un campo di testo. Ora i controlli a valore non testuale (slider, spunte, stepper, barre di scorrimento) vengono riconosciuti e ignorati, e per le manopole custom senza ruolo vale una seconda difesa: un valore numerico non e' mai testo.]]></description>
+            <enclosure url="https://github.com/Lavder-Enterprise/lavder-stt-releases/releases/download/v2.6.0/LavderSTT-2.6.0.dmg" type="application/octet-stream" sparkle:edSignature="PZXXOabl36eCdaTb+AzdkXKTPqm5z7rYBJvclYKf4vCljwh+YlHBmO7ZN7mTadlB3sRIgTWWuDyLamI0AYYXBw==" length="6201784" />
         </item>
         <item>
             <title>Versione 2.5.16</title>
