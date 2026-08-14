@@ -6,6 +6,17 @@
         <description>Aggiornamenti di Lavder STT.</description>
         <language>it</language>
         <item>
+            <title>Versione 2.6.1</title>
+            <pubDate>Fri, 14 Aug 2026 15:59:54 +0300</pubDate>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>2.6.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[La dettatura col mouse non parte piu' sulle manopole e sugli slider.
+
+Tenere premuto su una manopola per trascinarla faceva partire la dettatura: quel controllo espone un valore scrivibile — e' cosi' che l'accessibilita' lo muove — e il rilevatore lo scambiava per un campo di testo. Ora i controlli a valore non testuale (slider, spunte, stepper, barre di scorrimento) vengono riconosciuti e ignorati, e per le manopole custom senza ruolo vale una seconda difesa: un valore numerico non e' mai testo.]]></description>
+            <enclosure url="https://github.com/Lavder-Enterprise/lavder-stt-releases/releases/download/v2.6.1/LavderSTT-2.6.1.dmg" type="application/octet-stream" sparkle:edSignature="xu90/LH1yPT/RoDIx7K16/6m/e7sn9+D74kvHIOT481rwunKw/BeLe02c0Wwsv1crCfnqd1OZsZ70V7w0oUeBA==" length="6201772" />
+        </item>
+        <item>
             <title>Versione 2.6.0</title>
             <pubDate>Fri, 14 Aug 2026 15:55:55 +0300</pubDate>
             <sparkle:version>27</sparkle:version>
