@@ -6,6 +6,19 @@
         <description>Aggiornamenti di Lavder STT.</description>
         <language>it</language>
         <item>
+            <title>Versione 2.8.0</title>
+            <pubDate>Tue, 13 Oct 2026 18:55:39 +0200</pubDate>
+            <sparkle:version>31</sparkle:version>
+            <sparkle:shortVersionString>2.8.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Compila i moduli a voce con i tuoi dati.
+
+- Anagrafica: nella nuova sezione della finestra principale inserisci i tuoi dati personali e quelli dell'azienda (ragione sociale, partita IVA, codice SDI, PEC, sedi, IBAN). Restano nel Portachiavi del Mac.
+- Compila il modulo: su una pagina web detta «compila il modulo con i dati personali» (o «aziendali»). Lavder STT riconosce i campi, ti mostra un'anteprima con i valori e, se confermi, li compila; sceglie anche le voci dei menu come Provincia e Nazione. Il modulo non viene mai inviato e password, carte di pagamento e consensi non vengono toccati.
+- Novità sempre aggiornate: la scheda «Novità» nella Home ora mostra le note della versione che hai installato, invece di un testo rimasto uguale da molte versioni.]]></description>
+            <enclosure url="https://github.com/Lavder-Enterprise/lavder-stt-releases/releases/download/v2.8.0/LavderSTT-2.8.0.dmg" type="application/octet-stream" sparkle:edSignature="dveLzF3dpZ3hHzZ6DL72IEm8prP8VKlOE8cpNtwe3R2zNQp7nhYRMxyUzS4pyFE6BhresT/5PSXsJRdsSXBABQ==" length="6488212" />
+        </item>
+        <item>
             <title>Versione 2.7.0</title>
             <pubDate>Tue, 13 Oct 2026 18:31:23 +0200</pubDate>
             <sparkle:version>30</sparkle:version>
