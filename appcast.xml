@@ -6,6 +6,29 @@
         <description>Aggiornamenti di Lavder STT.</description>
         <language>it</language>
         <item>
+            <title>Versione 2.6.2</title>
+            <pubDate>Tue, 13 Oct 2026 17:35:28 +0200</pubDate>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>2.6.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Correzioni di stabilita' su microfono, inserimento del testo e dettature lunghe.
+
+- TeamSpeak e le altre app impostate sul microfono "Default" non restano piu' mute: Lavder STT non rimette d'autorita' il microfono predefinito del Mac, lo corregge solo quando macOS passa all'iPhone (Continuity).
+- Le dettature lunghe con Whisper o OpenAI non vanno piu' perse: l'attesa della trascrizione cresce con la durata del parlato invece di fermarsi a 20 secondi.
+- Con Whisper e OpenAI non si perde piu' la fine dell'ultima parola (venivano tagliati circa 60 millisecondi di audio).
+- Con l'elaborazione AI attiva il dizionario non viene piu' applicato due volte ("Mario Rossi Rossi").
+- Se l'app in cui stavi scrivendo non torna in primo piano, il testo resta negli appunti invece di essere incollato nella finestra sbagliata.
+- Incolla piu' simile a quello fatto a mano: negli editor web come Roundcube il testo non dovrebbe piu' comparire due volte.
+- Gli appunti originali vengono ripristinati correttamente anche con dettature ravvicinate.
+- Se il microfono si scollega a meta' dettatura, viene inserito quello che avevi gia' detto.
+- Se il motore di trascrizione si guasta mentre parli, la dettatura si chiude con un errore invece di restare appesa; la traduzione ha un tempo massimo.
+- Whisper carica il modello gia' scaricato senza passare dalla rete.
+- Il Command destro come tasto di dettatura viene riconosciuto correttamente al rilascio.
+- I promemoria di aggiornamento non rubano piu' il fuoco alla finestra in cui stai scrivendo.
+- La chiave OpenAI si salva una volta sola a fine digitazione; il permesso Riconoscimento vocale si chiede solo se usi quel motore.]]></description>
+            <enclosure url="https://github.com/Lavder-Enterprise/lavder-stt-releases/releases/download/v2.6.2/LavderSTT-2.6.2.dmg" type="application/octet-stream" sparkle:edSignature="BBlH4d3CM9rxrDGL+w+KWSXTMslsNbLt290InKlmNkkCT9QiU05jZ0lI1+lcGfWtfe3kIvmCK8HKcWMnFb7kDQ==" length="6202240" />
+        </item>
+        <item>
             <title>Versione 2.6.1</title>
             <pubDate>Fri, 14 Aug 2026 15:59:54 +0300</pubDate>
             <sparkle:version>28</sparkle:version>
