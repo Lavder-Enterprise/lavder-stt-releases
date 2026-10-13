@@ -6,6 +6,20 @@
         <description>Aggiornamenti di Lavder STT.</description>
         <language>it</language>
         <item>
+            <title>Versione 2.9.0</title>
+            <pubDate>Tue, 13 Oct 2026 19:40:34 +0200</pubDate>
+            <sparkle:version>32</sparkle:version>
+            <sparkle:shortVersionString>2.9.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Comandi sui moduli in tutte le lingue e menu a tendina che si compilano.
+
+- Menu a tendina: Provincia, Nazione e gli altri menu dei moduli ora si compilano anche in Safari.
+- Più comandi: oltre a «compila il modulo con i dati aziendali» puoi dire «sovrascrivi il modulo» (cambia anche i campi già pieni), «svuota il modulo», «compila solo email e telefono», «compila tutto tranne l'indirizzo», «svuota il campo telefono».
+- In tutte le lingue: i comandi e i nomi dei campi si riconoscono in italiano, inglese, francese, tedesco, spagnolo, portoghese e in molte altre lingue, anche su siti stranieri.
+- Era un testo: se una frase viene scambiata per un comando, nell'anteprima c'è «Era un testo: scrivilo» e la dettatura finisce nel campo come sempre.]]></description>
+            <enclosure url="https://github.com/Lavder-Enterprise/lavder-stt-releases/releases/download/v2.9.0/LavderSTT-2.9.0.dmg" type="application/octet-stream" sparkle:edSignature="o0SjUZZ2srUOr99SIBh6/QdYbWep3TefaaVlyOQ9h1s/voNtRtXx0GgA9QCs0oFFHaby10PgVKoU/g5Ea8LsAw==" length="6538712" />
+        </item>
+        <item>
             <title>Versione 2.8.0</title>
             <pubDate>Tue, 13 Oct 2026 18:55:39 +0200</pubDate>
             <sparkle:version>31</sparkle:version>
