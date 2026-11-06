@@ -6,6 +6,19 @@
         <description>Aggiornamenti di Lavder STT.</description>
         <language>it</language>
         <item>
+            <title>Versione 2.11.0</title>
+            <pubDate>Fri, 06 Nov 2026 11:17:45 +0100</pubDate>
+            <sparkle:version>35</sparkle:version>
+            <sparkle:shortVersionString>2.11.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Maiuscolo con Shift e punteggiatura più pulita.
+
+- Maiuscolo tenendo premuto Shift: mentre detti, tieni premuto Shift e le parole dette in quel momento si scrivono in MAIUSCOLO; al rilascio si torna normali. Nella capsula compare ⇧. Funziona con il mouse, con la scorciatoia e con il tasto di dettatura. Si spegne in Impostazioni › Dettatura.
+- Due punti detti a voce: dicendo «due punti» prima di una pausa non compare più un punto o un punto interrogativo attaccato («segue:?» diventa «segue:»), e dopo i due punti la frase continua in minuscolo.
+- Pause: un punto messo per una pausa e seguito da una minuscola («il mouse. oppure») viene tolto.]]></description>
+            <enclosure url="https://github.com/Lavder-Enterprise/lavder-stt-releases/releases/download/v2.11.0/LavderSTT-2.11.0.dmg" type="application/octet-stream" sparkle:edSignature="DtQEcO0zgA92nEkicwpFFMKbSxzrQwYYFHipOXFKo8uIRRcLW/TIdJv/ZlGuGyvSFmMFp2hvF6mWdzADC3kEDw==" length="6628272" />
+        </item>
+        <item>
             <title>Versione 2.10.0</title>
             <pubDate>Fri, 06 Nov 2026 10:49:32 +0100</pubDate>
             <sparkle:version>34</sparkle:version>
