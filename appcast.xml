@@ -6,6 +6,17 @@
         <description>Aggiornamenti di Lavder STT.</description>
         <language>it</language>
         <item>
+            <title>Versione 2.12.2</title>
+            <pubDate>Fri, 06 Nov 2026 17:24:33 +0100</pubDate>
+            <sparkle:version>38</sparkle:version>
+            <sparkle:shortVersionString>2.12.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Permessi più facili da sistemare:
+• Nel menu della barra, quando manca un permesso, c'è ora anche «Ripristina permessi…»: azzera i permessi di Lavder STT e li richiede da capo. Serve quando in Impostazioni la spunta c'è ma l'app non funziona, o quando l'app non compare nell'elenco del Microfono.
+• Dopo aver concesso i permessi in Impostazioni di Sistema non serve più riavviare l'app: se ne accorge da sola.]]></description>
+            <enclosure url="https://github.com/Lavder-Enterprise/lavder-stt-releases/releases/download/v2.12.2/LavderSTT-2.12.2.dmg" type="application/octet-stream" sparkle:edSignature="Cv/fVCxCZ00j/f2kESyoHokTUT+IXjQCkmhejzSqnN/U8VkyhppJdFvEa50GK5Kz6VFnizZ2LoLy5PZgYog0Bg==" length="6720184" />
+        </item>
+        <item>
             <title>Versione 2.12.1</title>
             <pubDate>Fri, 06 Nov 2026 14:17:54 +0100</pubDate>
             <sparkle:version>37</sparkle:version>
