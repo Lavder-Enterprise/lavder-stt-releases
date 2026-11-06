@@ -6,6 +6,18 @@
         <description>Aggiornamenti di Lavder STT.</description>
         <language>it</language>
         <item>
+            <title>Versione 2.10.0</title>
+            <pubDate>Fri, 06 Nov 2026 10:49:32 +0100</pubDate>
+            <sparkle:version>34</sparkle:version>
+            <sparkle:shortVersionString>2.10.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Il punto interrogativo dal tono della voce.
+
+- Domande dall'intonazione: quando alla fine di una frase la tua voce sale, come in una domanda, Lavder STT mette il punto interrogativo anche se il riconoscimento vocale non l'ha messo («Hai finito il report?»). Funziona in italiano e in inglese con il motore Apple, senza Apple Intelligence e senza internet.
+- Prudente: il punto interrogativo si aggiunge solo alla fine delle frasi e quando il tono sale con chiarezza. Se non fa per te, lo spegni in Impostazioni › Trascrizione.]]></description>
+            <enclosure url="https://github.com/Lavder-Enterprise/lavder-stt-releases/releases/download/v2.10.0/LavderSTT-2.10.0.dmg" type="application/octet-stream" sparkle:edSignature="Pvhfcma1olmZgN5xuuFXsEQyh5RQqCi2eQNrbR6jIgaaoSCB+nJfTXD9OdT+rUvhLs+Kn+2tRE2JSUoHjtgdAQ==" length="6608088" />
+        </item>
+        <item>
             <title>Versione 2.9.1</title>
             <pubDate>Fri, 06 Nov 2026 10:08:13 +0100</pubDate>
             <sparkle:version>33</sparkle:version>
