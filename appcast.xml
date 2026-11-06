@@ -6,6 +6,20 @@
         <description>Aggiornamenti di Lavder STT.</description>
         <language>it</language>
         <item>
+            <title>Versione 2.9.1</title>
+            <pubDate>Fri, 06 Nov 2026 10:08:13 +0100</pubDate>
+            <sparkle:version>33</sparkle:version>
+            <sparkle:shortVersionString>2.9.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Punteggiatura migliore quando fai delle pause.
+
+- Pause per pensare: se ti fermi a metà frase, il testo non viene più spezzato con un punto e una maiuscola nel mezzo quando la frase chiaramente continua («Volevo dirti che… domani passo»).
+- Maiuscole: le maiuscole messe per errore dopo una pausa in mezzo alla frase vengono tolte; nomi propri e parole del tuo Dizionario restano come sono.
+- Punto finale: viene aggiunto quando manca alla fine di una frase; non su nomi, ricerche o indirizzi.
+- Correzione AI: rilegge meglio fine frase, domande ed esclamazioni. Se il modello di Apple Intelligence non è ancora pronto sul tuo Mac, Lavder STT te lo dice invece di saltare la correzione in silenzio.]]></description>
+            <enclosure url="https://github.com/Lavder-Enterprise/lavder-stt-releases/releases/download/v2.9.1/LavderSTT-2.9.1.dmg" type="application/octet-stream" sparkle:edSignature="IFkjO0Ayp50Utcy9pK27JfoweCWqbT6A3XjJ8frPa73KZRxv+n6eIgE4L4xXzrMtBMKhXbClGD/Z+QosVK0EDg==" length="6574432" />
+        </item>
+        <item>
             <title>Versione 2.9.0</title>
             <pubDate>Tue, 13 Oct 2026 19:40:34 +0200</pubDate>
             <sparkle:version>32</sparkle:version>
