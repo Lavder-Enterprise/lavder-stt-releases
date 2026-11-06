@@ -6,6 +6,18 @@
         <description>Aggiornamenti di Lavder STT.</description>
         <language>it</language>
         <item>
+            <title>Versione 2.12.1</title>
+            <pubDate>Fri, 06 Nov 2026 14:17:54 +0100</pubDate>
+            <sparkle:version>37</sparkle:version>
+            <sparkle:shortVersionString>2.12.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Correzioni ai gesti mentre detti:
+• I comandi con ⌘ ora accettano un testo: tenendo ⌘ dì «tra virgolette ciao» e viene scritto “ciao”. Funzionano anche «tra parentesi …», «maiuscolo …», «cancella domani» (toglie l'ultima volta che compare) e «sostituisci cinque con sei».
+• ⌘ conta anche se lo premi un attimo dopo aver cominciato a parlare o lo rilasci un attimo prima di finire.
+• Dopo Esc, la dettatura annullata si recupera di nuovo con «Ritrascrivi l'ultima».]]></description>
+            <enclosure url="https://github.com/Lavder-Enterprise/lavder-stt-releases/releases/download/v2.12.1/LavderSTT-2.12.1.dmg" type="application/octet-stream" sparkle:edSignature="bOmGbobU7ngxjcsB02bj2j1j6tFzDlWdpiw5XXPWDIY/nZID0wR3UGxxSVm9Zpo/deAoUuDFyRVUrB3661g2Dg==" length="6710844" />
+        </item>
+        <item>
             <title>Versione 2.12.0</title>
             <pubDate>Fri, 06 Nov 2026 13:21:24 +0100</pubDate>
             <sparkle:version>36</sparkle:version>
