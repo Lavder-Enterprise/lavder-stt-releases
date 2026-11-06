@@ -6,6 +6,19 @@
         <description>Aggiornamenti di Lavder STT.</description>
         <language>it</language>
         <item>
+            <title>Versione 2.12.0</title>
+            <pubDate>Fri, 06 Nov 2026 13:21:24 +0100</pubDate>
+            <sparkle:version>36</sparkle:version>
+            <sparkle:shortVersionString>2.12.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Novità mentre detti:
+• Esc annulla la dettatura: non viene scritto niente (l'audio resta recuperabile con «Ritrascrivi l'ultima»).
+• Comandi a voce tenendo premuto ⌘: quello che dici non si scrive ma si esegue sul testo appena dettato. Per esempio «cancella l'ultima frase», «cancella l'ultima parola», «a capo», «punto interrogativo», «tra virgolette», «fanne un elenco». Con Apple Intelligence anche comandi liberi come «più formale». Se usi il ⌘ destro per dettare, per i comandi usa il ⌘ sinistro.
+• Doppio tocco di Shift: nuovo paragrafo nel punto in cui stai parlando.
+• Nella capsula compaiono ⇧, ⌘ o ¶ mentre usi i tasti. Tutto si può spegnere in Impostazioni → Mentre detti.]]></description>
+            <enclosure url="https://github.com/Lavder-Enterprise/lavder-stt-releases/releases/download/v2.12.0/LavderSTT-2.12.0.dmg" type="application/octet-stream" sparkle:edSignature="ZY7Vmruf3um4V9lv+Ox4XiOpqgQuD1gadhws/qwtNieIe9c9eUbAqCqEaIjl1sl8UY+zWg6DHP+6WLfwCofwBg==" length="6695413" />
+        </item>
+        <item>
             <title>Versione 2.11.0</title>
             <pubDate>Fri, 06 Nov 2026 11:17:45 +0100</pubDate>
             <sparkle:version>35</sparkle:version>
