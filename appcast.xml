@@ -6,6 +6,18 @@
         <description>Aggiornamenti di Lavder STT.</description>
         <language>it</language>
         <item>
+            <title>Versione 2.12.3</title>
+            <pubDate>Fri, 06 Nov 2026 17:40:26 +0100</pubDate>
+            <sparkle:version>39</sparkle:version>
+            <sparkle:shortVersionString>2.12.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Correzioni ai gesti mentre detti:
+• Esc ora cancella quello che hai detto fin lì e continua ad ascoltare (nella capsula compare ⌫): al rilascio si scrive solo quello che dici dopo. Se rilasci subito non scrive niente. Premuto dopo il rilascio, mentre trascrive, annulla la dettatura.
+• Un comando con ⌘ che non esiste (per esempio «sottolineato») non sparisce più: viene scritto come testo.
+• Se premi ⌘ un attimo dopo aver cominciato il comando, le parole del testo finite dentro tornano al testo: «… alle cinque» + ⌘ «sostituisci cinque con sei» dà «… alle sei».]]></description>
+            <enclosure url="https://github.com/Lavder-Enterprise/lavder-stt-releases/releases/download/v2.12.3/LavderSTT-2.12.3.dmg" type="application/octet-stream" sparkle:edSignature="mPGuhUwdtl13WWG72XYxoHtNvW0QhVSO1bYPN595WRjcxv7iG8JfTE+Jx9P8HAKgY8nk9auW5wiTUDdqOz9ODw==" length="6724580" />
+        </item>
+        <item>
             <title>Versione 2.12.2</title>
             <pubDate>Fri, 06 Nov 2026 17:24:33 +0100</pubDate>
             <sparkle:version>38</sparkle:version>
