@@ -6,6 +6,18 @@
         <description>Aggiornamenti di Lavder STT.</description>
         <language>it</language>
         <item>
+            <title>Versione 2.13.0</title>
+            <pubDate>Thu, 26 Nov 2026 11:02:16 +0100</pubDate>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>2.13.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Novità: registro diagnostico per l'assistenza.
+• In Impostazioni, in fondo, c'è la sezione «Diagnostica»: accendi «Registra i log su file», ripeti quello che non funziona, poi premi «Apri la cartella dei log» e invia il file LavderSTT.log.
+• Il file contiene tempi, esiti tecnici, nomi delle app in cui detti e dei programmi che intercettano la tastiera. Non contiene mai il testo dettato.
+• Spento (com'è di base) l'app non scrive nessun file.]]></description>
+            <enclosure url="https://github.com/Lavder-Enterprise/lavder-stt-releases/releases/download/v2.13.0/LavderSTT-2.13.0.dmg" type="application/octet-stream" sparkle:edSignature="hbrJPwUQcEaKHAOhkpkm45ui2wYWO2ytOJuaJLzPgFhh0Km+E55evlRgzXc0qmzo/jM2qUqfaEivpc/Ny212Dw==" length="6739374" />
+        </item>
+        <item>
             <title>Versione 2.12.3</title>
             <pubDate>Fri, 06 Nov 2026 17:40:26 +0100</pubDate>
             <sparkle:version>39</sparkle:version>
