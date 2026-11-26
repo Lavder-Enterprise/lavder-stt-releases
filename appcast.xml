@@ -6,6 +6,17 @@
         <description>Aggiornamenti di Lavder STT.</description>
         <language>it</language>
         <item>
+            <title>Versione 2.13.1</title>
+            <pubDate>Thu, 26 Nov 2026 11:36:26 +0100</pubDate>
+            <sparkle:version>41</sparkle:version>
+            <sparkle:shortVersionString>2.13.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Correzione: in Telegram il testo dettato non viene più inserito due volte.
+• Telegram rispondeva «errore» alla scrittura diretta nel campo ma intanto scriveva il testo, e l'app lo incollava una seconda volta. Ora in Telegram si incolla soltanto, e nelle altre app si controlla sempre il campo prima di incollare.
+• Se in qualche app il testo esce ancora doppio (per esempio in una webmail): Impostazioni → Diagnostica → «Registra i log su file», ripeti la dettatura e invia il file all'assistenza.]]></description>
+            <enclosure url="https://github.com/Lavder-Enterprise/lavder-stt-releases/releases/download/v2.13.1/LavderSTT-2.13.1.dmg" type="application/octet-stream" sparkle:edSignature="zky5RZKKChwBG9JbH3X2tJcqXQZ/Am9O9zRtuFBijoBlDAEmAH8fBKUM36p4VsnlPB7PCFEns2ndQUvTIIPWDQ==" length="6745538" />
+        </item>
+        <item>
             <title>Versione 2.13.0</title>
             <pubDate>Thu, 26 Nov 2026 11:02:16 +0100</pubDate>
             <sparkle:version>40</sparkle:version>
