@@ -6,6 +6,19 @@
         <description>Aggiornamenti di Lavder STT.</description>
         <language>it</language>
         <item>
+            <title>Versione 2.14.0</title>
+            <pubDate>Fri, 27 Nov 2026 12:42:24 +0100</pubDate>
+            <sparkle:version>42</sparkle:version>
+            <sparkle:shortVersionString>2.14.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Novità: emoji automatiche (richiede Apple Intelligence).
+• In Impostazioni c'è la sezione «Emoji automatiche»: accendi «Aggiungi emoji al testo dettato» e Apple Intelligence sceglie le emoji adatte al senso di quello che detti. L'app le mette in fondo alle frasi; il testo non viene cambiato.
+• Quante: «Poche» (al massimo una per dettatura), «Normale» (una per frase quando ci sta), «Tante» (quasi a ogni frase).
+• Dove: solo nelle app di chat (Telegram, WhatsApp, Messaggi, Slack…) oppure in tutte le app.
+• È spenta di base. Sui Mac senza Apple Intelligence attivo il testo resta senza emoji.]]></description>
+            <enclosure url="https://github.com/Lavder-Enterprise/lavder-stt-releases/releases/download/v2.14.0/LavderSTT-2.14.0.dmg" type="application/octet-stream" sparkle:edSignature="NCnAde6d0KHe+zku463sCEPORdaD+hnjUsTh+TINBsLnMmVtK7QwxDQCisAjLi45ktKiNe9vZgnlyfN7ZsnHBg==" length="6801695" />
+        </item>
+        <item>
             <title>Versione 2.13.1</title>
             <pubDate>Thu, 26 Nov 2026 11:36:26 +0100</pubDate>
             <sparkle:version>41</sparkle:version>
